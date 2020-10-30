@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactcrud2020/static/css/main.d8d6ea9b.chunk.css",
+    "main.js": "/reactcrud2020/static/js/main.217764c5.chunk.js",
+    "main.js.map": "/reactcrud2020/static/js/main.217764c5.chunk.js.map",
+    "runtime-main.js": "/reactcrud2020/static/js/runtime-main.b804b5ef.js",
+    "runtime-main.js.map": "/reactcrud2020/static/js/runtime-main.b804b5ef.js.map",
+    "static/css/2.95f25948.chunk.css": "/reactcrud2020/static/css/2.95f25948.chunk.css",
+    "static/js/2.9b1de350.chunk.js": "/reactcrud2020/static/js/2.9b1de350.chunk.js",
+    "static/js/2.9b1de350.chunk.js.map": "/reactcrud2020/static/js/2.9b1de350.chunk.js.map",
+    "index.html": "/reactcrud2020/index.html",
+    "static/css/2.95f25948.chunk.css.map": "/reactcrud2020/static/css/2.95f25948.chunk.css.map",
+    "static/css/main.d8d6ea9b.chunk.css.map": "/reactcrud2020/static/css/main.d8d6ea9b.chunk.css.map",
+    "static/js/2.9b1de350.chunk.js.LICENSE.txt": "/reactcrud2020/static/js/2.9b1de350.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b804b5ef.js",
+    "static/css/2.95f25948.chunk.css",
+    "static/js/2.9b1de350.chunk.js",
+    "static/css/main.d8d6ea9b.chunk.css",
+    "static/js/main.217764c5.chunk.js"
+  ]
+}
